@@ -9,7 +9,89 @@
                 "servings": "Serve chapati with beef stew, chicken stew, ndengu (peas), cabbage, spinach or your favourite stew dishes",
                 "description": "Chapati is an unleavened flat-circular bread normally made using all-purpose wheat flour, water, salt, and oil. It is especially popular in Kenya and is mostly eaten during the holidays.",
                 "food-image": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.watamukenya.net%2Fen%2Farticles%2Fnews%2Flast-news%2Fthe-swahili-chapati.html&psig=AOvVaw3AjVYCdkx5BzG5tdZkQk4j&ust=1690899558450000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCOiK7_KRuYADFQAAAAAdAAAAABAD"
+            },
+            {
+                "id": 2,
+            "food-name": "Mandazi",
+            "ingredients": "Self-raising flour, sugar, cardamom, milk, eggs, lemon zest, cooking oil",
+            "procedure": "Step 1: Making the dough: in a bowl, sift the self-raising flour, sugar and cardamom. Add the grated lemon zest then make a well in the center to add the warm milk together with eggs and a bit of oil. Use your hands to knead until all the ingredients come together, and the dough is smooth, taking care not to overwork the dough. Cover the bowl with cling film, or a slightly damp kitchen cloth and place it in a warm place in your kitchen, to rest for at least 20 minutes.\n Step 2: Roll out the dough: Once the dough has rested, transfer it to a floured rolling board or a clean kitchen countertop. Divide the dough into 4 portions, and roll each portion between the palms of your hands to form a ball. Roll out each portion of dough to a circular-shape. Cut them into triangle-shapes.\n Step 3: Fry: heat the oil in a large pot to 350°F (180°C) and fry each mandazi for 3-5 minutes on each side, or until golden brown. Transfer them to a kitchen or paper towel-lined bowl to drain.",
+            "servings": "Serve the hot-piping mandazis with tea, coffee or even juice",
+            "description": "Mandazi refers to buns made by deep-frying dough. It is especially popular in Kenya and is normally served for breakfast with sweetened tea.",
+            "food-image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fanmg-production.anmg.xyz%2Fyazakenya_1xVG8Y6VtXQmPauE1qL8PqGM&tbnid=26fHvRybNc80TM&vet=12ahUKEwiCkuqlm7mAAxVRricCHXdcC1wQMygIegUIARCbAg..i&imgrefurl=https%3A%2F%2Fyazakenya.com%2Ffood%2Ffood%2Fhow-to-cook-the-softest-sweet-mandazi&docid=-icCvAEBAFv4wM&w=600&h=600&q=mandazi&ved=2ahUKEwiCkuqlm7mAAxVRricCHXdcC1wQMygIegUIARCbAg"
+            },
+            {
+                "id": 3,
+                "food-name": "Swahili Pilau",
+                "ingredients": "Long-grain basmati rice, ground pilau masala spice, beef/chicken/lamb, crushed garlic and ginger, onion, tomato paste, salt, cooking oil, whole spices(cumin seeds, green cardamom pods, black peppercorns, cloves, and two cinnamon sticks)",
+                "procedure": "Step 1: If not using store-bought seasoning, prepare the ground pilau masala spice by roasting the whole spices (cumin seeds, green cardamom pods, cinnamon sticks, black peppercorns, and cloves). Use a blender or coffee grinder to process it into powder.\n Step 2: Next, clean the rice by rinsing it in a bowl until the water is no longer cloudy. Once clean, soak the rice using cold water.\n Step 3: Soak the whole spices in a cup or a small ramekin.\n Step 4: Boil the meat using water, salt, and the stock cube until tender. This could be goat, beef, lamb or poultry meat, it all depends on what you like. Sieve any excess broth and set it aside, for use when cooking the pilau rice.\n Step 5: Fry the meat and onions until brown, then add the garlic, ginger, and tomato paste. Add the soaked whole spices plus any liquid leftover from soaking the spices, the pilau masala powder, and the potatoes.\n Step 6: Next, add hot water (plus any reserved broth), followed by the rice.\n Step 7: Finally, cook until the rice is tender and all the liquid has evaporated and then serve.",
+                "servings": "Serve the Pilau with nyama-choma and kachumbari or your favourite animal stew together with kachumbari and a cold glass of your preferred soda.",
+                "description": "It a common food made by the coastal tribes in Kenya. Pilau is made by cooking rice with beef, chicken, or vegetables, in broth and spices. Pilau was such an exceptional dish and was only served during special occasions such as weddings. While it is more commonly consumed nowadays, it remains one of the meals that have to be present whenever there is a celebration of some sort.",
+                "food-image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcookpad.com%2Fke%2Frecipes%2F10628962-beef-pilau&psig=AOvVaw3yK3WWAfSxqO9t2X5EgjZb&ust=1690903052312000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCODX9_OeuYADFQAAAAAdAAAAABAD"
+            },
+            {
+                "id": 4,
+                "food-name": "",
+                "ingredients": "",
+                "procedure": "",
+                "servings": "",
+                "description": "",
+                "food-image": ""
+            },
+            {
+                "id": 5,
+                "food-name": "",
+                "ingredients": "",
+                "procedure": "",
+                "servings": "",
+                "description": "",
+                "food-image": ""
+            },
+            {
+                "id": 6,
+                "food-name": "",
+                "ingredients": "",
+                "procedure": "",
+                "servings": "",
+                "description": "",
+                "food-image": ""
+            },
+            {
+                "id": 7,
+                "food-name": "",
+                "ingredients": "",
+                "procedure": "",
+                "servings": "",
+                "description": "",
+                "food-image": ""
+            },
+            {
+                "id": 8,
+                "food-name": "",
+                "ingredients": "",
+                "procedure": "",
+                "servings": "",
+                "description": "",
+                "food-image": ""
+            },
+            {
+                "id": 9,
+                "food-name": "",
+                "ingredients": "",
+                "procedure": "",
+                "servings": "",
+                "description": "",
+                "food-image": ""
+            },
+            {
+                "id": 10,
+                "food-name": "",
+                "ingredients": "",
+                "procedure": "",
+                "servings": "",
+                "description": "",
+                "food-image": ""
             }
+            
         ]
     
 }
