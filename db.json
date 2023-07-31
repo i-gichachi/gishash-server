@@ -1,0 +1,16 @@
+{
+    
+        "recipes": [
+            {
+                "id": 1,
+                "food-name": "Chapati",
+                "ingredients": "All-purpose flour, salt, sugar (optional), water, cooking oil",
+                "procedure": "Step 1: Mix the dry ingredients, namely all-purpose flour, salt, and sugar in a large bowl. Add some oil, and the water a little at a time, then use your fists to knead everything to a dough.\n Step 2: Add the oil and knead some more, for about two minutes. The dough should now feel soft and flexible, and also should no longer stick to the fingers.\n Step 3: Cover the dough with a clean kitchen cloth or plastic basin and allow it to rest for at least 30 minutes at room temperature.\n Step 4: Divide the dough into equally-sized balls. Lightly dust a wooden board or your kitchen counter with flour, roll each ball of dough in flour and use a rolling pin to roll each into a circular shape.\n Step 5: Brush each chapati with a bit of cooking oil, lightly sprinkle some flour on top, then roll it so it resembles a rope. Coil the rope of dough towards the center, and tuck the end in the middle, this will make it look almost as a cinnamon roll.\n Step 6: Cover the coiled balls of dough with a clean kitchen cloth and allow this to rest for 10 minutes. Next, lightly dust your kitchen counter or wooden board with flour again and roll out each ball to a circular-shape.\n Step 7: Bring a non-sticky pan to high heat. Once hot, reduce the heat to a medium and place the rolled chapati dough on top. Cook each side until brown spots form.\n Step 8: Lightly brush the cooked surface with cooking oil, allowing the bottom to also become brown and puff up, flip and fry the oiled side for one to two minutes or until cooked equally.",
+                "servings": "Serve chapati with beef stew, chicken stew, ndengu (peas), cabbage, spinach or your favourite stew dishes",
+                "description": "Chapati is an unleavened flat-circular bread normally made using all-purpose wheat flour, water, salt, and oil. It is especially popular in Kenya and is mostly eaten during the holidays.",
+                "food-image": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.watamukenya.net%2Fen%2Farticles%2Fnews%2Flast-news%2Fthe-swahili-chapati.html&psig=AOvVaw3AjVYCdkx5BzG5tdZkQk4j&ust=1690899558450000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCOiK7_KRuYADFQAAAAAdAAAAABAD"
+            }
+        ]
+    
+}
+   
