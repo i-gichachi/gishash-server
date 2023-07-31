@@ -4,7 +4,7 @@
             {
                 "id": 1,
                 "food-name": "Chapati",
-                "ingredients": "All-purpose flour, salt, sugar (optional), water, cooking oil",
+                "ingredients": "All-purpose flour <depending on how one is making>, 1 teaspoon of salt <depends on you>, 1 teaspoon sugar <depends on you> (optional), water, cooking oil",
                 "procedure": "Step 1: Mix the dry ingredients, namely all-purpose flour, salt, and sugar in a large bowl. Add some oil, and the water a little at a time, then use your fists to knead everything to a dough.\n Step 2: Add the oil and knead some more, for about two minutes. The dough should now feel soft and flexible, and also should no longer stick to the fingers.\n Step 3: Cover the dough with a clean kitchen cloth or plastic basin and allow it to rest for at least 30 minutes at room temperature.\n Step 4: Divide the dough into equally-sized balls. Lightly dust a wooden board or your kitchen counter with flour, roll each ball of dough in flour and use a rolling pin to roll each into a circular shape.\n Step 5: Brush each chapati with a bit of cooking oil, lightly sprinkle some flour on top, then roll it so it resembles a rope. Coil the rope of dough towards the center, and tuck the end in the middle, this will make it look almost as a cinnamon roll.\n Step 6: Cover the coiled balls of dough with a clean kitchen cloth and allow this to rest for 10 minutes. Next, lightly dust your kitchen counter or wooden board with flour again and roll out each ball to a circular-shape.\n Step 7: Bring a non-sticky pan to high heat. Once hot, reduce the heat to a medium and place the rolled chapati dough on top. Cook each side until brown spots form.\n Step 8: Lightly brush the cooked surface with cooking oil, allowing the bottom to also become brown and puff up, flip and fry the oiled side for one to two minutes or until cooked equally.",
                 "servings": "Serve chapati with beef stew, chicken stew, ndengu (peas), cabbage, spinach or your favourite stew dishes",
                 "description": "Chapati is an unleavened flat-circular bread normally made using all-purpose wheat flour, water, salt, and oil. It is especially popular in Kenya and is mostly eaten during the holidays.",
@@ -13,7 +13,7 @@
             {
                 "id": 2,
             "food-name": "Mandazi",
-            "ingredients": "Self-raising flour, sugar, cardamom, milk, eggs, lemon zest, cooking oil",
+            "ingredients": "Self-raising flour, 2 teaspoon of sugar, cardamom, 1 packet of milk, 2 eggs, lemon zest, cooking oil",
             "procedure": "Step 1: Making the dough: in a bowl, sift the self-raising flour, sugar and cardamom. Add the grated lemon zest then make a well in the center to add the warm milk together with eggs and a bit of oil. Use your hands to knead until all the ingredients come together, and the dough is smooth, taking care not to overwork the dough. Cover the bowl with cling film, or a slightly damp kitchen cloth and place it in a warm place in your kitchen, to rest for at least 20 minutes.\n Step 2: Roll out the dough: Once the dough has rested, transfer it to a floured rolling board or a clean kitchen countertop. Divide the dough into 4 portions, and roll each portion between the palms of your hands to form a ball. Roll out each portion of dough to a circular-shape. Cut them into triangle-shapes.\n Step 3: Fry: heat the oil in a large pot to 350°F (180°C) and fry each mandazi for 3-5 minutes on each side, or until golden brown. Transfer them to a kitchen or paper towel-lined bowl to drain.",
             "servings": "Serve the hot-piping mandazis with tea, coffee or even juice",
             "description": "Mandazi refers to buns made by deep-frying dough. It is especially popular in Kenya and is normally served for breakfast with sweetened tea.",
@@ -22,7 +22,7 @@
             {
                 "id": 3,
                 "food-name": "Swahili Pilau",
-                "ingredients": "Long-grain basmati rice, ground pilau masala spice, beef/chicken/lamb, crushed garlic and ginger, onion, tomato paste, salt, cooking oil, whole spices(cumin seeds, green cardamom pods, black peppercorns, cloves, and two cinnamon sticks)",
+                "ingredients": " 2 glasses of Long-grain basmati rice, ground pilau masala spice, 1/2kg of beef/chicken/lamb, 1 tablespoon of crushed garlic and ginger, 2 onion, 1 packet of tomato paste, 2 teaspoon of salt <depends on you>, cooking oil, whole spices(cumin seeds, green cardamom pods, black peppercorns, cloves, and two cinnamon sticks)",
                 "procedure": "Step 1: If not using store-bought seasoning, prepare the ground pilau masala spice by roasting the whole spices (cumin seeds, green cardamom pods, cinnamon sticks, black peppercorns, and cloves). Use a blender or coffee grinder to process it into powder.\n Step 2: Next, clean the rice by rinsing it in a bowl until the water is no longer cloudy. Once clean, soak the rice using cold water.\n Step 3: Soak the whole spices in a cup or a small ramekin.\n Step 4: Boil the meat using water, salt, and the stock cube until tender. This could be goat, beef, lamb or poultry meat, it all depends on what you like. Sieve any excess broth and set it aside, for use when cooking the pilau rice.\n Step 5: Fry the meat and onions until brown, then add the garlic, ginger, and tomato paste. Add the soaked whole spices plus any liquid leftover from soaking the spices, the pilau masala powder, and the potatoes.\n Step 6: Next, add hot water (plus any reserved broth), followed by the rice.\n Step 7: Finally, cook until the rice is tender and all the liquid has evaporated and then serve.",
                 "servings": "Serve the Pilau with nyama-choma and kachumbari or your favourite animal stew together with kachumbari and a cold glass of your preferred soda.",
                 "description": "It a common food made by the coastal tribes in Kenya. Pilau is made by cooking rice with beef, chicken, or vegetables, in broth and spices. Pilau was such an exceptional dish and was only served during special occasions such as weddings. While it is more commonly consumed nowadays, it remains one of the meals that have to be present whenever there is a celebration of some sort.",
@@ -30,12 +30,12 @@
             },
             {
                 "id": 4,
-                "food-name": "",
-                "ingredients": "",
-                "procedure": "",
-                "servings": "",
-                "description": "",
-                "food-image": ""
+                "food-name": "Omena",
+                "ingredients": "2 cups dried omena fish, 2 small jugs hot water, cooking oil, 2 onions, 2 small cloves garlic, 3 tomatoes, 1 packet of tomato paste, 1 pili pili hoho, 2 chili peppers or dried chili flakes, 1 teaspoon curry powder, 2 teaspoons of salt (or more to taste), 2 cups of water, 1 small bunch of coriander, 2 small lemons",
+                "procedure": "Step 1: Place your omena on a kitchen tray and run your fingers through it to check for stones and any other unwanted debris such as shells.\n Step 2: Use hot water to rinse your omena until clean. Next, using two cups of water, boil or soak your fish covered for 10 minutes. Add more water if needed.\n Step 3: Using a sieve, drain the water and set the fish aside. In a pot or pan, heat oil under high heat. Add the sieved omena and fry for about 5 minutes, or until most of the liquid has dried up, stirring from time to time. Once done, set it aside in a bowl and prepare the stew.\n Step 4: Using the same pot or pan, heat oil under medium heat, then fry the onions until golden brown. Add the garlic and cook until fragrant. Next, add the coriander stems, curry powder, salt, chili pepper or dried flakes, then stir to combine.\n Step 5: Add the tomatoes and tomato paste, stir, cover, and allow the tomatoes to cook for about 10 minutes or until most of the water has evaporated and the tomatoes have softened.\n Step 6: Stir in the fried omena and bell pepper. Add a third cup of water or more as preferred if you like your omena to have the consistency of a stew. You can also use milk or coconut milk instead of water. Cover and allow it to simmer for a further 5 minutes.\n Step 7: Once cooked, drizzle some lemon juice on top and garnish with some chopped coriander.",
+                "servings": "Serve omena with ugali or rice and your preferred drink choice",
+                "description": "Omena is a small fresh-water fish that resembles sardines. The name omena is derived from the Luo language. It is normally prepared into a stew, shallow-fried, or deep-fried.",
+                "food-image": "https://www.google.com/imgres?imgurl=http%3A%2F%2Fblog.dmrckenya.co.ke%2Fwp-content%2Fuploads%2F2020%2F05%2Fomena.jpg&tbnid=6oD9YjUCnJK_cM&vet=12ahUKEwi7rfP7prmAAxUImicCHfkABjAQMygJegUIARCIAg..i&imgrefurl=https%3A%2F%2Fblog.dmrckenya.co.ke%2Fbenefits-of-eating-omena%2F&docid=DMGlDQg51Yl1fM&w=1200&h=900&q=omena&ved=2ahUKEwi7rfP7prmAAxUImicCHfkABjAQMygJegUIARCIAg"
             },
             {
                 "id": 5,
