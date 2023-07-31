@@ -39,57 +39,58 @@
             },
             {
                 "id": 5,
-                "food-name": "",
-                "ingredients": "",
-                "procedure": "",
-                "servings": "",
-                "description": "",
-                "food-image": ""
+                "food-name": "Mokimo wa Minji <Mashed potatoes with peas>",
+                "ingredients": "3 raw maize, 4 medium cups minji (peas), 1 tin of potatoes, 2 large onions, 3 pilipili (chilli), 2 teaspoons of salt, cooking oil",
+                "procedure": "Step 1: Strip the maize from the cobs.\n Step 2: Boil the maize for approximately 1 hour using a meko.\n Step 3: Add the washed peas into the boiling maize and let them boil for another 2 hours.\n Step 4: Peel the potatoes and add them to the boiling maize and peas, and boil for another 45 minutes.\n Step 5: Pour the excess water and then mash the potatoes together with the maize and peas using a cooking stick or an empty, clean 500ml bottle of soda.\n Step 6: After completely mashing the potatoes, add the 2 onions in a new pot and add cooking oil together with the chilli and fry them until the onions are golden brown.\n Step 7: Then add the mokimo and fry for 30 minutes.",
+                "servings": "Serve mokimo with nyama/pork/mbuzi choma and kachumbari, beef/mutton, chicken stew, or with just tea.",
+                "description": "Mokimo is a cultural food of the Gikuyu people since they love potatoes, so this is the most liked food in the community. It can be eaten any time, be it breakfast, lunch, supper, or as a snack.",
+                "food-image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcookpad.com%2Fza%2Frecipes%2F3539223-green-mokimo&psig=AOvVaw2wunqriagDXUSGHuv7kbmp&ust=1690911739027000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCNC11qS_uYADFQAAAAAdAAAAABAD"
             },
             {
                 "id": 6,
-                "food-name": "",
-                "ingredients": "",
-                "procedure": "",
-                "servings": "",
-                "description": "",
-                "food-image": ""
+                "food-name": "Matoke",
+                "ingredients": "4 Raw green bananas, 2 onions, 2 tomatoes, coriander, 1 teaspoon of garlic powder, cooking oil, 1 teaspoon of salt, royco cubes",
+                "procedure": "Step 1: Peel the bananas; then cut them into two-inch pieces and place them inside salted water to avoid discoloration when they come into contact with air.\nStep 2: Place a saucepan over medium heat and add cooking oil to it. Once the oil is hot, add chopped onion and cook for about 2 minutes or until they are translucent and soft. Next, add garlic and tomatoes and continue to cook for 2 more minutes.\nStep 3: Now, add royco cube and mix well. Cook for a minute or two until spices are fragrant.\nStep 4: Add the green bananas and mix well.\nStep 5: Pour water and stir. Bring the mixture to a boil and cover the saucepan with a lid. Add the coriander and reduce the heat and let the mixture simmer for about 25 minutes or until the green bananas are tender.",
+                "servings": "Serve matoke with beef/chicken/mutton stew and your preferred drink of choice.",
+                "description": "Matoke basically refers to cooked green bananas particularly popular in the Kisii Region. Cooked to a stew, enjoy matoke as it is as a main dish, or serve it alongside other dishes.",
+                "food-image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fnetstorage-tuko.akamaized.net%2Fimages%2F0fgjhs4d3quku3bpr.jpg&tbnid=Xms6TKd7pzJlbM&vet=12ahUKEwiFyL7hw7mAAxWxsEwKHfAbDzsQMygNegUIARChAg..i&imgrefurl=https%3A%2F%2Fwww.tuko.co.ke%2F259910-best-beef-matoke-recipe-kenya.html&docid=0ElQPGiEBZjsaM&w=1080&h=720&q=matoke%20recipe&ved=2ahUKEwiFyL7hw7mAAxWxsEwKHfAbDzsQMygNegUIARChAg"
             },
             {
                 "id": 7,
-                "food-name": "",
-                "ingredients": "",
-                "procedure": "",
-                "servings": "",
-                "description": "",
-                "food-image": ""
+                "food-name": "Ugali",
+                "ingredients": "Maize flour, water",
+                "procedure": "Step 1: Boil water in a pot.\nStep 2: Add cornmeal, a little at a time and stir.\nStep 3: Continue stirring; the mixture will form a dough-like consistency as it cooks. Break any lumps that form by pressing them on the sides of your pot.\nStep 4: Shape the ugali, remove it from the heat, transfer it to a plate, and serve.",
+                "servings": "Serve ugali with nyama/kuku/pork choma or beef/mutton stew together with kachumbari or even with sukuma wiki or cabbage and your preferred drink of choice.",
+                "description": "Ugali is a dish made by cooking maize flour into a type of mush. In Kenya, ugali is considered one of the staple foods and is eaten almost daily.",
+                "food-image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F640%2F1*yC9JWW0o5r6Nt1iveuSQ8g.jpeg&tbnid=5o3E7-BmHYzeiM&vet=12ahUKEwj6463TxbmAAxXapycCHU4dDuUQMygEegUIARCGAg..i&imgrefurl=https%3A%2F%2Frecipesaroundtheworld.com%2Frecipes-around-the-world-ugali-83b9c6768420&docid=qDdE7xGN2OokvM&w=500&h=375&q=ugali&ved=2ahUKEwj6463TxbmAAxXapycCHU4dDuUQMygEegUIARCGAg"
             },
             {
                 "id": 8,
-                "food-name": "",
-                "ingredients": "",
-                "procedure": "",
-                "servings": "",
-                "description": "",
-                "food-image": ""
+                "food-name": "Sukuma Wiki",
+                "ingredients": "Sukuma wiki leaves, 1 large onion, 2 large tomatoes, 2 teaspoons of salt, cooking oil",
+                "procedure": "Step 1: Prepare the vegetables: wash the sukuma wiki leaves and tomatoes. Peel and slice the onion, tomatoes, and sukuma wiki.\nStep 2: Fry the onion and tomatoes: heat oil in a pan. Fry the onion until golden brown, then stir in the tomatoes and allow them to cook until softened.\nStep 3: Once the tomatoes are cooked through, add the sukuma wiki leaves and some salt. Cover and allow to cook until done.\nStep 4: Season: add more salt.",
+                "servings": "Serve sukuma wiki with ugali, nyama/kuku/pork choma and your preferred drink of choice.",
+                "description": "Sukuma wiki is a common and popular staple dish in Kenya, that is normally served with ugali.",
+                "food-image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fafricanbites.com%2Fwp-content%2Fuploads%2F2015%2F01%2FIMG_6581.jpg&tbnid=PbNLQw7ePfZE2M&vet=12ahUKEwiNk-fYx7mAAxUKnCcCHXkjDzYQMygoegUIARDcAg..i&imgrefurl=https%3A%2F%2Fwww.africanbites.com%2Fsukuma-wiki%2F&docid=ufpmlntZQzLmBM&w=616&h=800&q=sukuma%20wiki&ved=2ahUKEwiNk-fYx7mAAxUKnCcCHXkjDzYQMygoegUIARDcAg"
             },
             {
                 "id": 9,
-                "food-name": "",
-                "ingredients": "",
-                "procedure": "",
-                "servings": "",
-                "description": "",
-                "food-image": ""
+                "food-name": "Nyama choma",
+                "ingredients": "Mbuzi meat (ribs or long-bone leg), 1 fresh ginger, 1/2 garlic, 2 onions, cumin, paprika, lemon juice, honey, cooking oil, chili, and salt.",
+                "marination": "Step 1: Prepare the nyama choma marinade by adding all the marinade ingredients to a blender and processing (garlic, ginger, onion, lemon juice, cooking oil, cumin, paprika, chili, salt).\nStep 2: On a chopping board, use a knife to make slits or gashes on the goat leg.\nStep 3: Put the goat meat in a large bowl, toss with some of the marinade on top, making sure to cover the slits. Reserve some of the marinade for basting during grilling.\nStep 4: Cover with aluminum foil and allow it to marinate for at least two hours or for best results overnight, before grilling.",
+                "procedure": "Step 1: Using an oven, preheat the oven to 170°C / 365°F (standard) or 150°C fan then lay the meat on a baking tray. Place in the oven and slowly roast for 4.5 hours. Bear in mind that the time may differ, depending on the cut of meat you are using. Therefore, feel free to add or decrease the cooking time.\nStep 2: Once the time is up, mix the honey with 2-3 tablespoons of hot water. Uncover the foil and baste with the honey glaze (optional). Broil each side for 5-10 minutes or until the desired brownness has been achieved. It is done when it has an internal temperature of at least 150-160 degrees F (65.6°C), and the juices run clear.\nStep 3: Once cooked, transfer the nyama choma to a tray and allow it to rest for at least 10-20 minutes before carving and serving.",
+                "servings": "Serve the nyama choma with ugali or chips and kachumbari and a cold drink, preferably a cold Tusker.",
+                "description": "Nyama choma is very popular in Kenya and is actually one of the meals that is always served whenever there is a barbecue, or whenever friends and family come together during football matches, for Friday evening meals, weddings, simply put, every occasion that calls for celebration.",
+                "food-image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.the-star.co.ke%2Fsasa%2Ffood%2F2023-03-10-how-to-make-mouth-watering-nyama-choma%2F&psig=AOvVaw34-6ob9iS5gpYqbBIKHud_&ust=1690915082662000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCMjs_NjLuYADFQAAAAAdAAAAABAE"
             },
             {
                 "id": 10,
-                "food-name": "",
-                "ingredients": "",
-                "procedure": "",
-                "servings": "",
-                "description": "",
-                "food-image": ""
+                "food-name": "Ndengu <green grams>",
+                "ingredients": "Ndengu beans, minced garlic and ginger, 1 large onion, 2 tomatoes, 2 teaspoons of salt, royco cubes, turmeric, cooking oil, coriander",
+                "procedure": "Step 1: Clean, then boil the green grams using water until soft and tender.\nStep 2: Drain away any excess liquid and set the green grams aside. Heat some oil in a pot or pan and fry the onion until translucent and fragrant. Add the garlic, ginger, tomatoes, and coriander stems. Cook until the tomatoes soften.\nStep 3: Stir in the salt, curry powder, and the rest of the spices.\nStep 4: Finally, add the ndengu and simmer until cooked. Garnish with some coriander leaves and serve!",
+                "servings": "Serve ndengu with chapati or rice with your preferred drink.",
+                "description": "Ndengu is a popular Kenyan stew made by cooking mung beans in a tomato and onion-based sauce. This is then seasoned using different spices such as curry powder.",
+                "food-image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fenvirofit.org%2Fwp-content%2Fuploads%2F2017%2F08%2FStewed-Ndengu-1.jpg&tbnid=RayEN3sxd_vMUM&vet=12ahUKEwjg-Iz8zbmAAxUtrycCHaFIBFAQMygDegUIARD6AQ..i&imgrefurl=https%3A%2F%2Fenvirofit.org%2Fsuperchef-stewed-ndengu%2F&docid=plfgMLxcWPWjzM&w=700&h=700&q=ndengu&ved=2ahUKEwjg-Iz8zbmAAxUtrycCHaFIBFAQMygDegUIARD6AQ"
             }
             
         ]
