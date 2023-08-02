@@ -2,7 +2,7 @@
   "name": "gishashserver",
   "version": "1.0.0",
   "description": "backend server for my json",
-  "master": "index.js",
+  "master": "script.js",
   "scripts": {
     "start": "node index.js"
   },
